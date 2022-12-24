@@ -1,5 +1,4 @@
 import { Injectable } from '@nestjs/common';
-import { bootstrap } from './main';
 
 @Injectable()
 export class AppService {
